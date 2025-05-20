@@ -1,2 +1,3 @@
-# Mathematical-Algorithms
-This repository is dedicated to transforming many foundational mathematical algorithms from Linear Algebra, Calculus, Probability &amp; Statistics into Python Scripts 
+# Machine Learning Algorithms
+
+This repo summarizes the algorithms obtained from various machine learning books, including Machine Learning cơ bản, 
