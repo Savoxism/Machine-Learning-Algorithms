@@ -1,3 +1,3 @@
-# Machine Learning Algorithms
+# Fundamental Machine Learning Algorithms
 
-This repo summarizes the algorithms obtained from various machine learning books, including Machine Learning cơ bản, 
+This repo summarizes the algorithms obtained from various machine learning books, including Machine Learning cơ bản, mathematics for machine learning, ...
