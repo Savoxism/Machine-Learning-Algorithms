@@ -89,6 +89,7 @@ rate_test = ratings_test.values
 # print("User-User CF RMSE: ", RMSE)
 
 # ================================================ #
+# item-item collaborative filtering
 rate_train = rate_train[:, [1, 0, 2]]
 rate_test = rate_test[:, [1, 0, 2]]
 

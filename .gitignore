@@ -1,5 +1,5 @@
 error_log.txt
-
+data/amazon_elec_500k/train_ratings.csv
 
 
 # Byte-compiled / optimized / DLL files
